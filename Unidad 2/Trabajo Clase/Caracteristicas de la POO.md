@@ -1,0 +1,4 @@
+- **Abstracción:** Representar solo lo esencial del objeto para el problema que se resuelve 
+- **Herencia:** Una clase reutiliza los atributos y métodos de otra y agrega los suyos 
+- **Encapsulamiento:** Ocultar los datos del objeto y modificarlos solo mediante sus métodos 
+- **Polimorfismo:** El mismo responde de forma distinta según el objeto que lo recibe 
