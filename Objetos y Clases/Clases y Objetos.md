@@ -1,1 +1,0 @@
-![[Diagrama sin título.drawio.png]]
