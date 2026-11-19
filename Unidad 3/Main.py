@@ -9,3 +9,5 @@ v1.mostrar_caracteristicas()
 print()
 print("Vehiculo 2")
 v2.mostrar_caracteristicas()
+
+
