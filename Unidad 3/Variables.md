@@ -4,4 +4,3 @@
 2. No puede iniciar con numero 
 3. No puede usar guion 
 
-![[Captura de pantalla 2026-11-23 175154.png|564]]
